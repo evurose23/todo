@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://i.pinimg.com/1200x/4f/a1/55/4fa1559aa1a8bbc503cd44fe09bf527f.jpg');
+    /* Path to your background image */
+    background-size: cover;
+    
+    /* Center horizontally */
+   
+    .navbar {
+        margin-bottom: 20px;
+    }
+    .todo-list {
+        margin-top: 20px;
+    }
+
+}
